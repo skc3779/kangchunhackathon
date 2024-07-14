@@ -1,1 +1,5 @@
-A simple HTML/JS/CSS starter template
+# Scary stories in photos 
+
+사진을 업로드하면 사진의 사물, 장소, 소품, 사람, 동물, 표정, 감정 등을 보고 짧은 무서운 이야기를 만들어주는 웹앱. 
+
+
